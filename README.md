@@ -1,8 +1,8 @@
 <div align="center">
 
-![Hello World! From Chloee1u1](assets/digital-banner.svg)
+![Hello World! From Chloee1u1](assets/digital-inline-banner.svg)
 
-**Undergrad · UCL '27 · BSc Statistics, Economics & Finance**
+**UCL '27 · BSc Statistics, Economics & Finance**
 
 Academic work · Projects · CV
 
