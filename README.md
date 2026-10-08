@@ -2,8 +2,7 @@
 
 # Chloe Z
 
-**Statistics, Economics & Finance · UCL**  
-Undergrad · UCL '27
+**Undergrad · UCL '27 · Statistics, Economics & Finance**
 
 [GitHub](https://github.com/Chloee1u1) · [Projects](#projects) · [CV](#cv)
 
