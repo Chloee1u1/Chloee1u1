@@ -75,6 +75,6 @@ Find me on [GitHub →](https://github.com/Chloee1u1).
 
 <div align="center">
 
-Thanks for visiting.
+Thanks for visiting ✨
 
 </div>
