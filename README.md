@@ -1,6 +1,6 @@
 <div align="center">
 
-![Chloe Z — Statistics, Economics, Finance](assets/profile-banner.svg)
+![Chloe Z — Statistics, Economics, Finance](assets/ocean-banner.svg)
 
 **Undergrad · UCL '27 · BSc Statistics, Economics & Finance**
 
