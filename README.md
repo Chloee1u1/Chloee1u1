@@ -4,7 +4,7 @@
 
 **Undergrad · UCL '27 · BSc Statistics, Economics & Finance**
 
-☁️ A little space for my academic journey, projects & work
+Academic work · Projects · CV
 
 [About me](#about-me) · [Academic focus](#academic-focus) · [Projects](#projects) · [CV](#cv) · [Connect](#connect)
 
@@ -18,7 +18,7 @@
 
 Hi, I'm **Chloe**! I'm an undergraduate at **University College London (Class of 2027)**, studying **BSc Statistics, Economics and Finance**.
 
-Welcome to my little corner of GitHub — a place for the things I'm learning, the projects I'm working on and the work I'd like to share.
+This portfolio brings together my academic work, projects and CV.
 
 | 🎓 University | 📚 Degree | 🗓️ Class |
 | :--- | :--- | :--- |
@@ -75,6 +75,6 @@ Find me on [GitHub →](https://github.com/Chloee1u1).
 
 <div align="center">
 
-☁️ Thanks for stopping by!
+Thanks for visiting.
 
 </div>
