@@ -1,14 +1,24 @@
 <div align="center">
 
-![Chloe Z — Statistics, Economics, Finance](assets/ocean-banner.svg)
+![Chloe Z](assets/floral-banner.svg)
 
 **Undergrad · UCL '27 · BSc Statistics, Economics & Finance**
 
 Academic work · Projects · CV
 
-[About me](#about-me) · [Academic focus](#academic-focus) · [Projects](#projects) · [CV](#cv) · [Connect](#connect)
+[Contributions](#contributions) · [About me](#about-me) · [Academic focus](#academic-focus) · [Projects](#projects) · [CV](#cv) · [Connect](#connect)
 
 </div>
+
+![Soft blue wave divider](assets/divider.svg)
+
+<a id="contributions"></a>
+
+## Contributions
+
+[![GitHub contribution calendar](assets/contributions.svg)](https://github.com/Chloee1u1?tab=overview)
+
+<sub>Snapshot updated 2026-10-08. [View live contributions ↗](https://github.com/Chloee1u1?tab=overview)</sub>
 
 ![Soft blue wave divider](assets/divider.svg)
 
