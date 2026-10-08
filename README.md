@@ -1,52 +1,80 @@
+<div align="center">
+
 ![Chloe Z — Statistics, Economics, Finance](assets/header.svg)
 
 **Undergrad · UCL '27 · BSc Statistics, Economics & Finance**
 
-[About](#about) &nbsp; / &nbsp; [Academic focus](#academic-focus) &nbsp; / &nbsp; [Projects](#projects) &nbsp; / &nbsp; [CV](#cv) &nbsp; / &nbsp; [Contact](#contact)
+☁️ A little space for my academic journey, projects & work
 
----
+[About me](#about-me) · [Academic focus](#academic-focus) · [Projects](#projects) · [CV](#cv) · [Connect](#connect)
 
-<a id="about"></a>
+</div>
 
-## 01 / About
+![Soft blue wave divider](assets/divider.svg)
 
-I'm **Chloe**, an undergraduate at **University College London**, studying **BSc Statistics, Economics and Finance**, Class of **2027**.
+<a id="about-me"></a>
 
-This portfolio brings together my academic work, selected projects and CV.
+## 🫧 About me
+
+Hi, I'm **Chloe**! I'm an undergraduate at **University College London (Class of 2027)**, studying **BSc Statistics, Economics and Finance**.
+
+Welcome to my little corner of GitHub — a place for the things I'm learning, the projects I'm working on and the work I'd like to share.
+
+| 🎓 University | 📚 Degree | 🗓️ Class |
+| :--- | :--- | :--- |
+| University College London | BSc Statistics, Economics & Finance | 2027 |
+
+![Soft blue wave divider](assets/divider.svg)
 
 <a id="academic-focus"></a>
 
-## 02 / Academic focus
+## 📘 Academic focus
 
-**Statistics** &nbsp; / &nbsp; **Economics** &nbsp; / &nbsp; **Finance**
+Three parts of my degree, with space to share coursework and projects as they take shape.
 
-Coursework and projects across the three areas of my degree.
+| 📊 Statistics | 🌍 Economics | 💹 Finance |
+| :--- | :--- | :--- |
+| Statistics coursework & projects | Economics coursework & projects | Finance coursework & projects |
 
-<!-- Add specific academic interests, modules and technical skills when ready. -->
+<!-- Add specific interests, favourite modules or research topics here. -->
+
+![Soft blue wave divider](assets/divider.svg)
 
 <a id="projects"></a>
 
-## 03 / Selected projects
+## 🧩 Projects
 
-*Project write-ups coming soon.*
+*A collection in the making — selected projects coming soon.*
 
-<!-- For each real project, add a title, the question explored, your approach,
-key findings, tools used and a repository link. -->
+<!-- Replace the placeholder with real projects: project name, description, tools and repository link. -->
+
+![Soft blue wave divider](assets/divider.svg)
 
 <a id="cv"></a>
 
-## 04 / CV
+## 📄 CV
 
-**CV · Coming soon**
+**My CV will be available here soon.**
+
+This space is reserved for a downloadable copy of my CV.
 
 <!-- Upload assets/Chloe-Z-CV.pdf, then replace the placeholder with:
-[View CV ↗](assets/Chloe-Z-CV.pdf)
-Only activate the link once the PDF exists. -->
+[View my CV →](assets/Chloe-Z-CV.pdf)
+Only activate this link after uploading the PDF.
+-->
 
-<a id="contact"></a>
+![Soft blue wave divider](assets/divider.svg)
 
-## 05 / Contact
+<a id="connect"></a>
 
-[GitHub ↗](https://github.com/Chloee1u1)
+## 💌 Connect
 
-<!-- Add LinkedIn or a public contact email when ready. -->
+Find me on [GitHub →](https://github.com/Chloee1u1).
+
+<!-- Add LinkedIn or a public contact email here when ready. -->
+
+<div align="center">
+
+☁️ Thanks for stopping by!
+
+</div>
