@@ -53,4 +53,3 @@ Do not activate this link until the PDF has been uploaded.
 Find me on [GitHub](https://github.com/Chloee1u1).
 
 <!-- Add your LinkedIn or a public contact email here when you are ready. -->
-# portfolio
