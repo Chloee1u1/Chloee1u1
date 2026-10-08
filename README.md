@@ -3,7 +3,7 @@
 # Chloe Z
 
 **Statistics, Economics & Finance · UCL**  
-Third-year undergraduate
+Undergrad · UCL '27
 
 [GitHub](https://github.com/Chloee1u1) · [Projects](#projects) · [CV](#cv)
 
@@ -13,7 +13,7 @@ Third-year undergraduate
 
 ## About me
 
-Hi, I'm Chloe — a third-year undergraduate at University College London, studying Statistics, Economics and Finance.
+Hi, I'm Chloe — an undergraduate at University College London (Class of 2027), studying Statistics, Economics and Finance.
 
 This is a space to share my academic journey, projects and work.
 
