@@ -1,6 +1,6 @@
 <div align="center">
 
-![Chloe Z — Statistics, Economics, Finance](assets/header.svg)
+![Chloe Z — Statistics, Economics, Finance](assets/profile-banner.svg)
 
 **Undergrad · UCL '27 · BSc Statistics, Economics & Finance**
 
@@ -67,7 +67,7 @@ Only activate this link after uploading the PDF.
 
 <a id="connect"></a>
 
-## 💌 Connect
+## ✉️ Connect
 
 Find me on [GitHub →](https://github.com/Chloee1u1).
 
