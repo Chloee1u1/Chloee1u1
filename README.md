@@ -1,54 +1,80 @@
 <div align="center">
 
-# Chloe Z
+![Chloe Z — welcome to my little corner](assets/header.svg)
 
-**Undergrad · UCL '27 · Statistics, Economics & Finance**
+**Undergrad · UCL '27 · BSc Statistics, Economics & Finance**
 
-[GitHub](https://github.com/Chloee1u1) · [Projects](#projects) · [CV](#cv)
+☁️ A little space for my academic journey, projects & work
+
+[About me](#about-me) · [Academic focus](#academic-focus) · [Projects](#projects) · [CV](#cv) · [Connect](#connect)
 
 </div>
 
----
+![Soft blue wave divider](assets/divider.svg)
 
-## About me
+<a id="about-me"></a>
 
-Hi, I'm Chloe — an undergraduate at University College London (Class of 2027), studying Statistics, Economics and Finance.
+## 🫧 About me
 
-This is a space to share my academic journey, projects and work.
+Hi, I'm **Chloe**! I'm an undergraduate at **University College London (Class of 2027)**, studying **BSc Statistics, Economics and Finance**.
 
-## Academic focus
+Welcome to my little corner of GitHub — a place for the things I'm learning, the projects I'm working on and the work I'd like to share.
 
-| Statistics | Economics | Finance |
+| 🎓 University | 📚 Degree | 🗓️ Class |
 | :--- | :--- | :--- |
-| My statistics coursework and projects | My economics coursework and projects | My finance coursework and projects |
+| University College London | BSc Statistics, Economics & Finance | 2027 |
 
-<!-- Personalise this section with your specific interests, modules or research topics. -->
+![Soft blue wave divider](assets/divider.svg)
 
-## Projects
+<a id="academic-focus"></a>
 
-*Selected projects coming soon.*
+## 📘 Academic focus
 
-<!-- Replace the placeholder above with project entries using this format:
+Three parts of my degree, with space to share coursework and projects as they take shape.
 
-### Project name
-A short description of the question, your approach and the result.
+| 📊 Statistics | 🌍 Economics | 💹 Finance |
+| :--- | :--- | :--- |
+| Statistics coursework & projects | Economics coursework & projects | Finance coursework & projects |
 
-**Tools:** Add the tools you used  
-[View project](https://github.com/Chloee1u1/REPOSITORY)
+<!-- Add specific interests, favourite modules or research topics here. -->
 
--->
+![Soft blue wave divider](assets/divider.svg)
 
-## CV
+<a id="projects"></a>
+
+## 🧩 Projects
+
+*A collection in the making — selected projects coming soon.*
+
+<!-- Replace the placeholder with real projects: project name, description, tools and repository link. -->
+
+![Soft blue wave divider](assets/divider.svg)
+
+<a id="cv"></a>
+
+## 📄 CV
 
 **My CV will be available here soon.**
 
-<!-- Upload your CV as assets/Chloe-Z-CV.pdf, then replace the line above with:
-[View my CV](assets/Chloe-Z-CV.pdf)
-Do not activate this link until the PDF has been uploaded.
+This space is reserved for a downloadable copy of my CV.
+
+<!-- Upload assets/Chloe-Z-CV.pdf, then replace the placeholder with:
+[View my CV →](assets/Chloe-Z-CV.pdf)
+Only activate this link after uploading the PDF.
 -->
 
-## Connect
+![Soft blue wave divider](assets/divider.svg)
 
-Find me on [GitHub](https://github.com/Chloee1u1).
+<a id="connect"></a>
 
-<!-- Add your LinkedIn or a public contact email here when you are ready. -->
+## 💌 Connect
+
+Find me on [GitHub →](https://github.com/Chloee1u1).
+
+<!-- Add LinkedIn or a public contact email here when ready. -->
+
+<div align="center">
+
+☁️ Thanks for stopping by!
+
+</div>
