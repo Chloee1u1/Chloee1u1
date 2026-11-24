@@ -1,46 +1,80 @@
-# Portfolio Risk Modelling Using ARMA-GARCH and Copula Models
+<div align="center">
 
-This project analyses the risk of an equally weighted portfolio of the S&P 500 and CAC 40 stock indices using weekly closing-price data from 1 January 2000 to 31 December 2025.
+![Hello World! From Chloee1u1](assets/digital-inline-banner.svg)
 
-## Project overview
+**UCL '27 · BSc Statistics, Economics & Finance**
 
-The report develops a modelling and simulation workflow for the two financial return series:
+Academic work · Projects · CV
 
-1. **Data preparation and exploratory analysis** – prepares the weekly index data, calculates log returns and examines volatility clustering.
-2. **Time-series modelling** – uses Box–Jenkins diagnostics and compares AR(1)-GARCH(1,1) models under alternative conditional distributions.
-3. **Model diagnostics** – assesses standardised residuals and applies the Probability Integral Transform (PIT), Kolmogorov–Smirnov and Anderson–Darling tests.
-4. **Dependence modelling** – selects a copula to model the dependence between the two indices and performs bivariate Monte Carlo simulation.
-5. **Simulation and risk measurement** – reintroduces time-series effects, compares simulated and observed returns, and estimates portfolio Value-at-Risk (VaR) at the 95% and 99% confidence levels.
+[About me](#about-me) · [Academic focus](#academic-focus) · [Projects](#projects) · [CV](#cv) · [Connect](#connect)
 
-The report presents a one-week portfolio VaR estimate of 2.28% at 95% confidence and 3.83% at 99% confidence.
+</div>
 
-## Files
+![Soft blue wave divider](assets/divider.svg)
 
-- `portfolio_risk_modelling.Rmd` – the R Markdown report, including the analysis, code, tables and figures.
-- `S&P500_CAC40.csv` – input data required by the report. This data file is referenced by the R Markdown document and must be placed in the working directory before knitting; it is not included in this repository unless added separately.
+<a id="about-me"></a>
 
-## Requirements
+## 🫧 About me
 
-The analysis uses R and the following packages:
+Hi, I'm **Chloe**! I'm an undergraduate at **University College London (Class of 2027)**, studying **BSc Statistics, Economics and Finance**.
 
-- `tidyverse`
-- `VineCopula`
-- `fGarch`
-- `KScorrect`
-- `ADGofTest`
-- `fBasics`
-- `kableExtra`
-- `pacman`, `knitr` and `rmarkdown` for package loading and report rendering
+This portfolio brings together my academic work, projects and CV.
 
-The setup chunk uses `pacman::p_load()` to load the analysis packages.
+| 🎓 University | 📚 Degree | 🗓️ Class |
+| :--- | :--- | :--- |
+| University College London | BSc Statistics, Economics & Finance | 2027 |
 
-## Run the report
+![Soft blue wave divider](assets/divider.svg)
 
-1. Install R and, optionally, RStudio.
-2. Place `S&P500_CAC40.csv` in the project working directory.
-3. Open `portfolio_risk_modelling.Rmd` in RStudio.
-4. Knit the document to HTML or PDF. PDF output may require a LaTeX distribution.
+<a id="academic-focus"></a>
 
-## Notes
+## 📘 Academic focus
 
-The report is an academic modelling exercise. Its VaR estimates depend on the data, model specification and simulation procedure described in the report; they should not be interpreted as investment advice.
+Three parts of my degree, with space to share coursework and projects as they take shape.
+
+| 📊 Statistics | 🌍 Economics | 💹 Finance |
+| :--- | :--- | :--- |
+| Statistics coursework & projects | Economics coursework & projects | Finance coursework & projects |
+
+<!-- Add specific interests, favourite modules or research topics here. -->
+
+![Soft blue wave divider](assets/divider.svg)
+
+<a id="projects"></a>
+
+## 🧩 Projects
+
+*A collection in the making — selected projects coming soon.*
+
+<!-- Replace the placeholder with real projects: project name, description, tools and repository link. -->
+
+![Soft blue wave divider](assets/divider.svg)
+
+<a id="cv"></a>
+
+## 📄 CV
+
+**My CV will be available here soon.**
+
+This space is reserved for a downloadable copy of my CV.
+
+<!-- Upload assets/Chloe-Z-CV.pdf, then replace the placeholder with:
+[View my CV →](assets/Chloe-Z-CV.pdf)
+Only activate this link after uploading the PDF.
+-->
+
+![Soft blue wave divider](assets/divider.svg)
+
+<a id="connect"></a>
+
+## ✉️ Connect
+
+Find me on [GitHub →](https://github.com/Chloee1u1).
+
+<!-- Add LinkedIn or a public contact email here when ready. -->
+
+<div align="center">
+
+Thanks for visiting ✨
+
+</div>
